@@ -1,5 +1,5 @@
 User-agent: *
-Sitemap: http://dotaholic.com/sitemap_index.xml
+Sitemap: .//sitemap_index.xml
 Disallow: /cache/
 Disallow: /downloads/
 Disallow: /models/
