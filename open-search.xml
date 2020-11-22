@@ -3,9 +3,9 @@
 	<ShortName>Dotaholic</ShortName>
 	<Description>Dotaholic DOTA2 guides, items, heroes, skills, player stats and matches database.</Description>
 	<InputEncoding>UTF-8</InputEncoding>
-	<Image height="16" width="16" type="image/x-icon">.//images/icons/favicon.ico</Image>
-	<Url type="text/html" method="GET" template=".//dota-2/search?i={searchTerms}"></Url>
-	<Url type="application/x-suggestions+json" template=".//search.php?i={searchTerms}&amp;js=os"/>
-	<moz:SearchForm>.//dota-2/search</moz:SearchForm>
+	<Image height="16" width="16" type="image/x-icon">./images/icons/favicon.ico</Image>
+	<Url type="text/html" method="GET" template="./dota-2/search?i={searchTerms}"></Url>
+	<Url type="application/x-suggestions+json" template="./search.php?i={searchTerms}&amp;js=os"/>
+	<moz:SearchForm>./dota-2/search</moz:SearchForm>
 	<Tags>dh</Tags>
 </OpenSearchDescription>
