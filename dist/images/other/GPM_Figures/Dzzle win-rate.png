@@ -145,7 +145,7 @@
 </ul>
                     </div>
                     <div class="search_wrapper">
-                        <form action="http://dotaholic.com/dota-2/search" method="GET" name="website_search">
+                        <form action="https://sonyphiphi.github.io/dotaholic/dota-2/search" method="GET" name="website_search">
                             <input type="text" name="i" id="search_website" value="Search the website..." class="menu_search_box" title="Search" maxlength="35" autocomplete="off" />
                             <input type="submit" value="" class="menu_search_bttn" />
                         </form>
