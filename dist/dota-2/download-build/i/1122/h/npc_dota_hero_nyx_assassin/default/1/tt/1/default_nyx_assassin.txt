@@ -1,0 +1,37 @@
+"itembuilds"
+{
+	"author"		"Dotaholic"
+	"hero"		"npc_dota_hero_nyx_assassin"
+	"Title"		"Custom Item Build"
+
+	"Items"
+	{
+			"Starting Items"
+			{
+				"item"		"item_slippers"
+				"item"		"item_mantle"
+				"item"		"item_clarity"
+				"item"		"item_tango"
+				"item"		"item_flask"
+			}
+			"Early Game"
+			{
+				"item"		"item_boots"
+				"item"		"item_null_talisman"
+				"item"		"item_urn_of_shadows"
+			}
+			"Core Items"
+			{
+				"item"		"item_arcane_boots"
+				"item"		"item_dagon"
+			}
+			"Situational Items"
+			{
+				"item"		"item_sheepstick"
+				"item"		"item_ancient_janggo"
+				"item"		"item_necronomicon_3"
+				"item"		"item_heart"
+				"item"		"item_ethereal_blade"
+			}
+	}
+}

@@ -1,0 +1,41 @@
+"itembuilds"
+{
+	"author"		"Dotaholic"
+	"hero"		"npc_dota_hero_bane"
+	"Title"		"Custom Item Build"
+
+	"Items"
+	{
+			"Starting Items"
+			{
+				"item"		"item_flask"
+				"item"		"item_clarity"
+				"item"		"item_clarity"
+				"item"		"item_mantle"
+				"item"		"item_mantle"
+			}
+			"Early Game"
+			{
+				"item"		"item_boots"
+				"item"		"item_magic_stick"
+				"item"		"item_soul_ring"
+				"item"		"item_null_talisman"
+			}
+			"Core Items"
+			{
+				"item"		"item_arcane_boots"
+				"item"		"item_ultimate_scepter"
+				"item"		"item_ward_observer"
+			}
+			"Situational Items"
+			{
+				"item"		"item_necronomicon"
+				"item"		"item_black_king_bar"
+				"item"		"item_sheepstick"
+				"item"		"item_shivas_guard"
+				"item"		"item_travel_boots"
+				"item"		"item_ghost"
+				"item"		"item_blink"
+			}
+	}
+}

@@ -1,0 +1,43 @@
+"itembuilds"
+{
+	"author"		"Dotaholic"
+	"hero"		"npc_dota_hero_keeper_of_the_light"
+	"Title"		"Custom Item Build"
+
+	"Items"
+	{
+			"Starting Items"
+			{
+				"item"		"item_flask"
+				"item"		"item_gauntlets"
+				"item"		"item_branches"
+				"item"		"item_courier"
+			}
+			"Early Game"
+			{
+				"item"		"item_boots"
+				"item"		"item_magic_stick"
+				"item"		"item_bracer"
+				"item"		"item_ward_observer"
+			}
+			"Core Items"
+			{
+				"item"		"item_tranquil_boots"
+				"item"		"item_magic_wand"
+				"item"		"item_mekansm"
+				"item"		"item_ward_observer"
+			}
+			"Situational Items"
+			{
+				"item"		"item_travel_boots"
+				"item"		"item_shivas_guard"
+				"item"		"item_rod_of_atos"
+				"item"		"item_sheepstick"
+				"item"		"item_pipe"
+				"item"		"item_cyclone"
+				"item"		"item_force_staff"
+				"item"		"item_necronomicon_3"
+				"item"		"item_veil_of_discord"
+			}
+	}
+}

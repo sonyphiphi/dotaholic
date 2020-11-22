@@ -1,0 +1,43 @@
+"itembuilds"
+{
+	"author"		"Dotaholic"
+	"hero"		"npc_dota_hero_luna"
+	"Title"		"Custom Item Build"
+
+	"Items"
+	{
+			"Starting Items"
+			{
+				"item"		"item_branches"
+				"item"		"item_branches"
+				"item"		"item_tango"
+				"item"		"item_flask"
+			}
+			"Early Game"
+			{
+				"item"		"item_magic_stick"
+				"item"		"item_boots"
+				"item"		"item_poor_mans_shield"
+				"item"		"item_ring_of_basilius"
+			}
+			"Core Items"
+			{
+				"item"		"item_magic_wand"
+				"item"		"item_ring_of_aquila"
+				"item"		"item_power_treads"
+				"item"		"item_helm_of_the_dominator"
+				"item"		"item_black_king_bar"
+				"item"		"item_tpscroll"
+			}
+			"Situational Items"
+			{
+				"item"		"item_force_staff"
+				"item"		"item_heart"
+				"item"		"item_invis_sword"
+				"item"		"item_satanic"
+				"item"		"item_manta"
+				"item"		"item_butterfly"
+				"item"		"item_ultimate_scepter"
+			}
+	}
+}

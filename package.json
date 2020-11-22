@@ -1,0 +1,16 @@
+{
+  "name": "dotaholic",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d dist"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "home": "https://sonyphiphi.github.io/dotaholic",
+  "dependencies": {
+    "gh-pages": "^3.1.0"
+  }
+}

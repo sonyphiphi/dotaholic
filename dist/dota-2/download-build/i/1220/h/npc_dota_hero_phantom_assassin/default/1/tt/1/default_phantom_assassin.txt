@@ -1,0 +1,39 @@
+"itembuilds"
+{
+	"author"		"Dotaholic"
+	"hero"		"npc_dota_hero_phantom_assassin"
+	"Title"		"Custom Item Build"
+
+	"Items"
+	{
+			"Starting Items"
+			{
+				"item"		"item_tango"
+				"item"		"item_branches"
+				"item"		"item_branches"
+				"item"		"item_branches"
+				"item"		"item_stout_shield"
+			}
+			"Early Game"
+			{
+				"item"		"item_boots"
+				"item"		"item_poor_mans_shield"
+				"item"		"item_magic_wand"
+				"item"		"item_pers"
+			}
+			"Core Items"
+			{
+				"item"		"item_phase_boots"
+				"item"		"item_bfury"
+				"item"		"item_black_king_bar"
+			}
+			"Situational Items"
+			{
+				"item"		"item_satanic"
+				"item"		"item_abyssal_blade"
+				"item"		"item_vladmir"
+				"item"		"item_monkey_king_bar"
+				"item"		"item_assault"
+			}
+	}
+}

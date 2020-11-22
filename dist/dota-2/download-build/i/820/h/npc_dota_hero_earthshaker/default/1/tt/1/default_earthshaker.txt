@@ -1,0 +1,41 @@
+"itembuilds"
+{
+	"author"		"Dotaholic"
+	"hero"		"npc_dota_hero_earthshaker"
+	"Title"		"Custom Item Build"
+
+	"Items"
+	{
+			"Starting Items"
+			{
+				"item"		"item_clarity"
+				"item"		"item_clarity"
+				"item"		"item_clarity"
+				"item"		"item_tango"
+				"item"		"item_flask"
+				"item"		"item_gauntlets"
+				"item"		"item_branches"
+			}
+			"Early Game"
+			{
+				"item"		"item_magic_stick"
+				"item"		"item_boots"
+				"item"		"item_bracer"
+				"item"		"item_energy_booster"
+			}
+			"Core Items"
+			{
+				"item"		"item_magic_wand"
+				"item"		"item_arcane_boots"
+				"item"		"item_blink"
+			}
+			"Situational Items"
+			{
+				"item"		"item_ultimate_scepter"
+				"item"		"item_veil_of_discord"
+				"item"		"item_shivas_guard"
+				"item"		"item_sheepstick"
+				"item"		"item_heart"
+			}
+	}
+}

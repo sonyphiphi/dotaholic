@@ -1,0 +1,42 @@
+"itembuilds"
+{
+	"author"		"Dotaholic"
+	"hero"		"npc_dota_hero_puck"
+	"Title"		"Custom Item Build"
+
+	"Items"
+	{
+			"Starting Items"
+			{
+				"item"		"item_flask"
+				"item"		"item_clarity"
+				"item"		"item_gauntlets"
+				"item"		"item_gauntlets"
+				"item"		"item_branches"
+			}
+			"Early Game"
+			{
+				"item"		"item_magic_stick"
+				"item"		"item_boots"
+				"item"		"item_bottle"
+				"item"		"item_bracer"
+				"item"		"item_bracer"
+			}
+			"Core Items"
+			{
+				"item"		"item_magic_wand"
+				"item"		"item_phase_boots"
+				"item"		"item_blink"
+			}
+			"Situational Items"
+			{
+				"item"		"item_sheepstick"
+				"item"		"item_bloodstone"
+				"item"		"item_ultimate_scepter"
+				"item"		"item_dagon"
+				"item"		"item_shivas_guard"
+				"item"		"item_sphere"
+				"item"		"item_cyclone"
+			}
+	}
+}
