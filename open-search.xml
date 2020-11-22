@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OpenSearchDescription xmlns="http://a9.com/-/spec/opensearch/1.1/" xmlns:moz="http://www.mozilla.org/2006/browser/search/">
+	<ShortName>Dotaholic</ShortName>
+	<Description>Dotaholic DOTA2 guides, items, heroes, skills, player stats and matches database.</Description>
+	<InputEncoding>UTF-8</InputEncoding>
+	<Image height="16" width="16" type="image/x-icon">http://dotaholic.com/images/icons/favicon.ico</Image>
+	<Url type="text/html" method="GET" template="http://dotaholic.com/dota-2/search?i={searchTerms}"></Url>
+	<Url type="application/x-suggestions+json" template="http://dotaholic.com/search.php?i={searchTerms}&amp;js=os"/>
+	<moz:SearchForm>http://dotaholic.com/dota-2/search</moz:SearchForm>
+	<Tags>dh</Tags>
+</OpenSearchDescription>

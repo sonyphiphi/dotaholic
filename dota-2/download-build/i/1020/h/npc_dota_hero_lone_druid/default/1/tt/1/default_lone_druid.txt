@@ -1,0 +1,40 @@
+"itembuilds"
+{
+	"author"		"Dotaholic"
+	"hero"		"npc_dota_hero_lone_druid"
+	"Title"		"Custom Item Build"
+
+	"Items"
+	{
+			"Starting Items"
+			{
+				"item"		"item_headdress"
+			}
+			"Early Game"
+			{
+				"item"		"item_boots"
+			}
+			"Early Game for Bear"
+			{
+				"item"		"item_boots"
+			}
+			"Core Items"
+			{
+				"item"		"item_power_treads"
+			}
+			"Core Items for Bear"
+			{
+				"item"		"item_orb_of_venom"
+				"item"		"item_radiance"
+			}
+			"Situational Items"
+			{
+				"item"		"item_assault"
+				"item"		"item_abyssal_blade"
+				"item"		"item_mjollnir"
+				"item"		"item_heart"
+				"item"		"item_butterfly"
+				"item"		"item_travel_boots"
+			}
+	}
+}

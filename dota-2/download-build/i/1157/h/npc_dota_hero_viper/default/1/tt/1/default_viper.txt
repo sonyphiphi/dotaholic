@@ -1,0 +1,42 @@
+"itembuilds"
+{
+	"author"		"Dotaholic"
+	"hero"		"npc_dota_hero_viper"
+	"Title"		"Custom Item Build"
+
+	"Items"
+	{
+			"Starting Items"
+			{
+				"item"		"item_slippers"
+				"item"		"item_slippers"
+				"item"		"item_flask"
+				"item"		"item_branches"
+				"item"		"item_branches"
+			}
+			"Early Game"
+			{
+				"item"		"item_magic_stick"
+				"item"		"item_boots"
+				"item"		"item_wraith_band"
+				"item"		"item_wraith_band"
+			}
+			"Core Items"
+			{
+				"item"		"item_magic_wand"
+				"item"		"item_power_treads"
+				"item"		"item_vanguard"
+			}
+			"Situational Items"
+			{
+				"item"		"item_manta"
+				"item"		"item_black_king_bar"
+				"item"		"item_monkey_king_bar"
+				"item"		"item_invis_sword"
+				"item"		"item_butterfly"
+				"item"		"item_orchid"
+				"item"		"item_heart"
+				"item"		"item_ultimate_scepter"
+			}
+	}
+}

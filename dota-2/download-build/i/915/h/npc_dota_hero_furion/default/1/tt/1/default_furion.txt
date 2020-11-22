@@ -1,0 +1,40 @@
+"itembuilds"
+{
+	"author"		"Dotaholic"
+	"hero"		"npc_dota_hero_furion"
+	"Title"		"Custom Item Build"
+
+	"Items"
+	{
+			"Starting Items"
+			{
+				"item"		"item_clarity"
+				"item"		"item_clarity"
+				"item"		"item_clarity"
+				"item"		"item_tango"
+				"item"		"item_tango"
+				"item"		"item_tango"
+			}
+			"Early Game"
+			{
+				"item"		"item_magic_stick"
+				"item"		"item_boots"
+				"item"		"item_ring_of_basilius"
+			}
+			"Core Items"
+			{
+				"item"		"item_magic_wand"
+				"item"		"item_power_treads"
+				"item"		"item_sheepstick"
+			}
+			"Situational Items"
+			{
+				"item"		"item_hand_of_midas"
+				"item"		"item_ultimate_scepter"
+				"item"		"item_orchid"
+				"item"		"item_desolator"
+				"item"		"item_necronomicon"
+				"item"		"item_greater_crit"
+			}
+	}
+}

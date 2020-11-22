@@ -1,0 +1,46 @@
+html, body {
+	height: auto;
+}
+
+.menu_search_box {
+	margin-top: 5px;
+}
+
+.menu_search_bttn {
+	vertical-align: top;
+	height: 36px;
+	margin-left: 3px;
+}
+
+.vdbtt_tradeable, .vdbtt_untradeable, .vdbtt_mailable, .vdbtt_unmailable {
+	zoom: 1;
+    display: inline;
+}
+
+.vdbtt_info_box, .vdbtt_info_box_money {
+	width: 272px;
+	padding: 3px 0px 0px 3px;
+	margin-left: 0px;
+}
+
+.menu_search_box {
+	margin: 3px 0px 0px 4px;
+}
+
+.item_icon_tt {
+	cursor: pointer;
+}
+
+/* No overlapping menus for IE7 */
+ul.sf-menu li li:hover ul,
+ul.sf-menu li li.sfHover ul {
+	left:			168px; /* match ul width */
+}
+ul.sf-menu li li li:hover ul,
+ul.sf-menu li li li.sfHover ul {
+	left:			168px; /* match ul width */
+}
+
+.basic_table {
+	border-collapse: collapse;
+}

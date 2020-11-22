@@ -1,0 +1,42 @@
+"itembuilds"
+{
+	"author"		"Dotaholic"
+	"hero"		"npc_dota_hero_alchemist"
+	"Title"		"Custom Item Build"
+
+	"Items"
+	{
+			"Starting Items"
+			{
+				"item"		"item_flask"
+				"item"		"item_branches"
+				"item"		"item_branches"
+				"item"		"item_branches"
+				"item"		"item_stout_shield"
+			}
+			"Early Game"
+			{
+				"item"		"item_boots"
+				"item"		"item_magic_stick"
+				"item"		"item_ring_of_health"
+				"item"		"item_ring_of_basilius"
+			}
+			"Core Items"
+			{
+				"item"		"item_phase_boots"
+				"item"		"item_magic_wand"
+				"item"		"item_vanguard"
+				"item"		"item_tpscroll"
+			}
+			"Situational Items"
+			{
+				"item"		"item_black_king_bar"
+				"item"		"item_radiance"
+				"item"		"item_assault"
+				"item"		"item_vladmir"
+				"item"		"item_blade_mail"
+				"item"		"item_mjollnir"
+				"item"		"item_basher"
+			}
+	}
+}

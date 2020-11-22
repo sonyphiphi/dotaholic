@@ -1,0 +1,40 @@
+"itembuilds"
+{
+	"author"		"Dotaholic"
+	"hero"		"npc_dota_hero_wisp"
+	"Title"		"Custom Item Build"
+
+	"Items"
+	{
+			"Starting Items"
+			{
+				"item"		"item_gauntlets"
+				"item"		"item_tango"
+				"item"		"item_flask"
+				"item"		"item_clarity"
+				"item"		"item_branches"
+			}
+			"Early Game"
+			{
+				"item"		"item_boots"
+				"item"		"item_magic_stick"
+				"item"		"item_urn_of_shadows"
+			}
+			"Core Items"
+			{
+				"item"		"item_magic_wand"
+				"item"		"item_mekansm"
+				"item"		"item_arcane_boots"
+			}
+			"Situational Items"
+			{
+				"item"		"item_heart"
+				"item"		"item_shivas_guard"
+				"item"		"item_sheepstick"
+				"item"		"item_heavens_halberd"
+				"item"		"item_necronomicon_3"
+				"item"		"item_ancient_janggo"
+				"item"		"item_dagon"
+			}
+	}
+}
